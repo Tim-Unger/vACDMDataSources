@@ -2,6 +2,6 @@
   {
     "name" : "VATSIM Germany",
     "shortName": "VATGER",
-    "url": "https://vacdm.vatsim-germany.org/api/v1/pilots/",
+    "url": "https://vacdm.vatsim-germany.org/api/v1/pilots/"
   }
 ]
