@@ -3,5 +3,10 @@
     "name" : "VATSIM Germany",
     "shortName": "VATGER",
     "url": "https://vacdm.vatsim-germany.org/api/v1/pilots/"
+  },
+  {
+    "name" : "Test Data",
+    "shortName": "TEST",
+    "url": "https://vacdm.tim-u.me/api/v1/pilots"
   }
 ]
